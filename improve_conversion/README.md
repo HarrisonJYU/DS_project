@@ -1,19 +1,18 @@
 #### Improve Conversion Rate
 
-We have data about users who hit an E-commerce site. We know
-some of their characteristics, such as their country, marketing
-channel, age, whether they are repeat users, and the number of pages
-visited during that session. We also know whether they converted or
-not.
+Data - users who hit an E-commerce site. 
+Characteristics - their country, marketing channel, age, whether they are repeat users, and the number of pages
+visited during that session, whether they converted or not.
 
-The goal is to come up with recommendations for the product and
-the marketing teams to improve conversion rate.
+Process of the analysis
 
 1. Use Exploratory and descriptive stats to sum up the data
 
 2. Use graph to visualize the data and observe the patterns
 
 3. Apply machine learning models to predict conversion rate
+
+4. Come up with recommendations for the product and the marketing teams to improve conversion rate.
 
 #### Data
 - country : user country based on the IP address
